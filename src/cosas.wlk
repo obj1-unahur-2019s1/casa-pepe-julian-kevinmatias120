@@ -27,3 +27,9 @@ object plancha {
 	method esComida() { return false }
 	method esElectrodomestico() { return true }	
 }
+
+object milanesas {
+	method precio() { return 1200 }
+	method esComida() { return false }
+	method esElectrodomestico() { return true }	
+}
